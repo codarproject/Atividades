@@ -1,0 +1,72 @@
+print("            Sistema de cadastro de produtos")
+
+print("produto 1")
+print("Informe o nome do 1º produto")
+nome1 = input()
+print("Informe o fabricante") 
+fabri1 = input()
+print ("Coloque a quantidade em estoque do 1° produto")
+quan1 = int(input())
+print("Informe o preço do 1° produto")
+preço1=float(input())
+
+print("O valor total do estoque",quan1*preço1)
+
+print("produto 2")
+print("Informe o nome do 2º produto")
+nome2 = input()
+print("Informe o fabricante") 
+fabri2 = input()
+print ("Coloque a quantidade em estoque do 2° produto")
+quan2 = int(input())
+print("Informe o preço do 2° produto")
+preço2=float(input())
+
+print("O valor total do estoque",quan2*preço2)
+
+
+
+print("Produto 3")
+
+print("Informe o nome do 3º produto")
+nome3 = input()
+print("Informe o fabricante") 
+fabri3 = input()
+print ("Coloque a quantidade em estoque do 3° produto")
+quan3 = int(input())
+print("Informe o preço do 3° produto")
+preço3=float(input())
+
+print("O valor total do estoque",quan3*preço3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+
