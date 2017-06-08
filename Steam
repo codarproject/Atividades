@@ -1,0 +1,42 @@
+print("sistema de cadastro")
+
+
+print("digite o nome do 1ºproduto")
+pro1=input()
+print("digite o nome da industria")
+ind1=input()
+print("digite a quantidade de estoque")
+est1=int(input())
+print("digite o preço do produto")
+preço1=float(input())
+
+print("digite o nome do 2ºproduto")
+pro2=input()
+print("digite o nome da industria")
+ind2=input()
+print("digite a quantidade de estoque")
+est2=int(input())
+print("digite o preço do produto")
+preço2=float(input())
+
+print("digite o nome do 3ºproduto")
+pro3=input()
+print("digite o nome da industria")
+ind3=input()
+print("digite a quantidade de estoque")
+est3=int(input())
+print("digite o preço do produto")
+preço3=float(input())
+
+
+print("relatorio do total")
+
+print("1ºproduto:",pro1)
+print("industria:",ind1)
+print("estoque:",est1)
+print("preço:",preço1)
+print("valor total:",int(int1*est1)
+print("2ºproduto:",pro2)
+print("industria:",ind2)
+print("estoque:",est2)
+print("3ºproduto:",pro3,ind3,"preço total",int(est3*preço3))
