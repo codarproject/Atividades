@@ -1,0 +1,63 @@
+print("produto 1 ")
+print("digite o nome do produto")
+produto1=input()
+
+print("digite o fabricante")
+fabricante1=input()
+
+print("digite a quantidade em estoque")
+quantidade1=int(input())
+
+print("digite o preço")
+preço1=float(input())
+
+print("produto 2 ")
+print("digite o nome do produto")
+produto2=input()
+
+print("digite o frabricante")
+fabricante2=input()
+
+print("digite a quantidade em estoque")
+quantidade2=int(input())
+
+print("digite o preço")
+preço2=float(input())
+
+print("produto 3")
+print("digite o nome do produto")
+produto3=input()
+
+print("digite o fabricante")
+fabricante3=input()
+
+print("digite a quantidade em estoque")
+quantidade3=int(input())
+
+print("digite o preço")
+preço3=float(input())
+
+print("relatorio para a em preçao")
+print("produto1")
+print("nome:",produto1)
+print("fabricamte:",fabricante1)
+print("quantidade:",quantidade1)
+print("preço:",preço1)
+print("valor total", quantidade1*preço1)
+
+print("produto2")
+print("nome:",produto2)
+print("fabricante:",fabricante2)
+print("quantidade:",quantidade2)
+print("preço:",preço2)
+print("valor total:",quantidade2*preço2)
+
+print("produto3")
+print("nome:",produto3)
+print("fabricante:",fabricante3)
+print("quantidade:",quantidade3)
+print("preço:",preço3)
+print("valor total:",quantidade3*preço3)
+
+
+
